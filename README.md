@@ -2,15 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Krish+Korat;Cybersecurity+Enthusiast;Pentester;B.Tech+Student+%40+SIT+Pune" alt="Typing SVG" />
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Certification-CAPT-black?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CAPT" /></a>
-  <a href="https://linkedin.com/in/krishkorat"><img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
-
-<br/>
 
 ### About Me
 
@@ -61,15 +52,6 @@ Aegis is an ongoing Web Application Firewall project aimed at analyzing incoming
 </p>
 
 ---
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krish-Korat&show_icons=true&theme=github_dark_dimmed&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Korat&layout=compact&theme=github_dark_dimmed&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<br>
 
 <div align="center">
   <blockquote>"Security is a process, not a product."</blockquote>
