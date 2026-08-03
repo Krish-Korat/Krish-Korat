@@ -5,7 +5,7 @@
 
 ### About Me
 
-- 🎓 I'm a **2nd-year B.Tech Student** at Symbiosis Institute of Technology, Pune.
+- 🎓 I'm a **3rd-year B.Tech Student** at Symbiosis Institute of Technology, Pune.
 - 🛡️ My primary focus is on **Cybersecurity, Web Security, and Pentesting**.
 - 📜 I hold the **CAPT (Cybersecurity)** certification.
 - ⚡ I spend my time learning, building, and ethically breaking systems.
